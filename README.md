@@ -1,4 +1,4 @@
-![My Banner](https://user-images.githubusercontent.com/your_image_id/banner.gif)
+![My Banner](https://postimg.cc/delete/nWkwN2hh/9bdd2917)
 
 
 🐒 WSP!
