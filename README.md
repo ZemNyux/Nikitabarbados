@@ -2,7 +2,8 @@
 
 🕵️ Speciality: Developer / Student / Enthusiast
 
-💻 Languages C, C#, C++, Python, HTML, CSS    ![Static Badge](https://img.shields.io/badge/C%23-1e851b?style=flat)  ![Static Badge](https://img.shields.io/badge/C%2B%2B-f14b7d?style=flat&logo=github)
+💻 Languages C, C#, C++, Python, HTML, CSS    ![Static Badge](https://img.shields.io/badge/C%23-1e851b?style=flat)  ![Static Badge](https://img.shields.io/badge/C%2B%2B-f14b7d?style=flat)
+
 
 
 🛠️ Frameworks & Libraries: .NET, STL
