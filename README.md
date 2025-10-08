@@ -14,4 +14,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitabarbados&layout=compact&theme=tokyonight)
 
-![My Banner](https://postimg.cc/4K3Pry1s)
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/R07YJn66/monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo.gif' border='0' alt='monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo'/></a>
