@@ -2,7 +2,7 @@
 
 🕵️ Speciality: Developer / Student / Enthusiast
 
-💻 Languages C, C#, C++, Python, HTML, CSS   
+💻 Languages C, C#, C++, Python, HTML, CSS    ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 🛠️ Frameworks & Libraries: .NET, STL
 🏓 Hobbies: Rubik's Cube, Programming, Banana, Music, Fashion, Perfumes
 
@@ -13,7 +13,6 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
