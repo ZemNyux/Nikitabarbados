@@ -12,6 +12,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikitabarbados&show_icons=true&theme=tokyonight)   <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/R07YJn66/monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo.gif' width = "200" alt='monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo'/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitabarbados&layout=compact&theme=tokyonight)  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/J0jwxdtj/monkeysbynorufx-by-fstikbot-agaeiqacozn4sg-Ag-AEIQACo-Zn4-Sg.gif' border='0' alt='monkeysbynorufx-by-fstikbot-agaeiqacozn4sg-Ag-AEIQACo-Zn4-Sg'/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitabarbados&layout=compact&theme=tokyonight)  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/J0jwxdtj/monkeysbynorufx-by-fstikbot-agaeiqacozn4sg-Ag-AEIQACo-Zn4-Sg.gif' border='0' width = "200" alt='monkeysbynorufx-by-fstikbot-agaeiqacozn4sg-Ag-AEIQACo-Zn4-Sg'/></a>
 
 
