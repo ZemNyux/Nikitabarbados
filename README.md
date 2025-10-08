@@ -14,4 +14,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitabarbados&layout=compact&theme=tokyonight)
 
-![My Banner](https://user-images.githubusercontent.com/your_image_id/banner.gif)
+![My Banner](https://postimg.cc/4K3Pry1s)
