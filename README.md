@@ -10,7 +10,7 @@
 🏓 Hobbies: Rubik's Cube, Programming, Banana, Music, Fashion, Perfumes
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikitabarbados&show_icons=true&theme=tokyonight)   <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/R07YJn66/monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo.gif' width = "200"  style="margin: 500;" alt='monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo'/></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikitabarbados&show_icons=true&theme=tokyonight)   <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/R07YJn66/monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo.gif' width = "200"  style="margin: 500 margin-top: 20;" alt='monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo'/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitabarbados&layout=compact&theme=tokyonight)
 
