@@ -1,6 +1,3 @@
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/NG6PNXpV/monkeysbynorufx-by-fstikbot-agadcimaarvruuo-Ag-ADCi-MAArvru-Uo.gif' border='0' width = "200" alt='monkeysbynorufx-by-fstikbot-agadcimaarvruuo-Ag-ADCi-MAArvru-Uo'/></a>
-
-
 🐒 WSP!
 
 🕵️ Speciality: Developer / Student / Enthusiast 
