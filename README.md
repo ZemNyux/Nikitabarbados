@@ -11,4 +11,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitabarbados&layout=compact&theme=tokyonight)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikitabarbados&theme=tokyo-night)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
