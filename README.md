@@ -7,16 +7,6 @@
 
 
 
-
-
-
-
-
-
-
-
-🛠️ Frameworks & Libraries: .NET, STL
-
 🏓 Hobbies: Rubik's Cube, Programming, Banana, Music, Fashion, Perfumes
 
 
