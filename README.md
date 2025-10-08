@@ -14,4 +14,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitabarbados&layout=compact&theme=tokyonight)
 
-[![monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo.gif](https://i.postimg.cc/R07YJn66/monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo.gif)](https://postimg.cc/4K3Pry1s)
+[![My Banner](https://i.postimg.cc/R07YJn66/monkeysbynorufx-by-fstikbot-agad1ieaal1c8eo-Ag-AD1i-EAAl1c8-Eo.gif)](https://postimg.cc/4K3Pry1s)
