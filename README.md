@@ -1,6 +1,6 @@
 🐒 WSP!
 
-🕵️ Speciality: Developer / Student / Enthusiast  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/NG6PNXpV/monkeysbynorufx-by-fstikbot-agadcimaarvruuo-Ag-ADCi-MAArvru-Uo.gif' border='0' width = "100" margin-left="100px" alt='monkeysbynorufx-by-fstikbot-agadcimaarvruuo-Ag-ADCi-MAArvru-Uo'/></a>
+🕵️ Speciality: Developer / Student / Enthusiast 
 
 💻 Languages: ![Static Badge](https://img.shields.io/badge/C%23-1e851b?style=flat)  ![Static Badge](https://img.shields.io/badge/C%2B%2B-f14b7d?style=flat)  ![Static Badge](https://img.shields.io/badge/C-909090?style=flat)  ![Static Badge](https://img.shields.io/badge/-%20?style=flat&logo=Python&logoColor=white&color=3776AB&link=%20https%3A%2F%2Fimg.shields.io%2Fbadge%2F-%2520-%3Flogo%3Dpython%26logoColor%3Dwhite%26color%3D3776AB%26style%3Dfor-the-badge) ![Static Badge](https://img.shields.io/badge/-%20?style=flat&logo=html5&color=white)  ![Static Badge](https://img.shields.io/badge/-%20?style=flat&logo=CSS&color=blue)
 
