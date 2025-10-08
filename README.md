@@ -1,3 +1,6 @@
+![My Banner](https://user-images.githubusercontent.com/your_image_id/banner.gif)
+
+
 🐒 WSP!
 
 🕵️ Speciality: Developer / Student / Enthusiast 
